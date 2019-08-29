@@ -1,5 +1,8 @@
 **Coursera深度学习教程中文笔记**
 
+理论的补充
+
+
 课程概述
 
 https://mooc.study.163.com/university/deeplearning_ai#/c
